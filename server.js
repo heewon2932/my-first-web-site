@@ -13,7 +13,7 @@ app.get('/pet', function(요청, 응답){
 });
   
 app.get('/sex', function(요청, 응답){
-    응답.send('반갑습니sl다다람쥐');
+    응답.send('반갑습니sldfdfdf다다람쥐');
 });
 
 app.get('/', function(요청, 응답){
